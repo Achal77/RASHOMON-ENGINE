@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "293fa69d-9f7d-4c6f-8fe4-1d3ba4749c2a",
+    "customer_id": "db82fc6b-1002-4ad5-ac95-43ac399d0bb3",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Gamma",
+    "amount": 15433.83,
+    "date": "2019-10-24"
+  },
+  {
+    "id": "abd9ee72-e5be-4919-b6ef-d8a6e476a3fc",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Delta",
+    "amount": 11056.02,
+    "date": "2024-04-16"
+  },
+  {
+    "id": "e2c64291-fbef-4e7c-b039-0f5d8c4e3291",
+    "customer_id": "db82fc6b-1002-4ad5-ac95-43ac399d0bb3",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Beta",
+    "amount": 1551.12,
+    "date": "2024-02-13"
+  },
+  {
+    "id": "f109620b-f24f-45a8-a0bf-83f97500e093",
+    "customer_id": "83ca25d2-90f6-47da-8deb-ed28bce28bee",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Beta",
+    "amount": 11671.07,
+    "date": "2022-10-27"
+  },
+  {
+    "id": "630c48e5-b5c0-494c-836d-7bd5886a8e20",
+    "customer_id": "843ad742-1c9e-41cc-b1ae-51a5d5169938",
+    "sales_rep_id": "966c3022-d6fe-4a58-8604-55137a26c510",
+    "product": "Alpha",
+    "amount": 6199.75,
+    "date": "2022-01-05"
+  },
+  {
+    "id": "767defab-cc75-46cd-98ba-12fc90989cff",
+    "customer_id": "2626f9c7-c4a2-4617-bc9f-e827f0714221",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Gamma",
+    "amount": 13355.32,
+    "date": "2024-04-12"
+  },
+  {
+    "id": "43c28a5c-681a-45d8-9123-5cd886f84a72",
+    "customer_id": "f3de837f-2615-42c1-9cdc-436d895e2832",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Beta",
+    "amount": 15002.08,
+    "date": "2019-10-28"
+  },
+  {
+    "id": "0236c3b6-dbe8-4901-8a0e-87f4e6fdd903",
+    "customer_id": "cbfe2ff6-e7ae-4a75-884c-ff58bdc1d343",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Gamma",
+    "amount": 544.49,
+    "date": "2022-08-14"
+  },
+  {
+    "id": "9a60072c-18a7-421a-b010-ec1397d3f041",
+    "customer_id": "8e7ec55e-926e-4ba8-91e5-e7763e6bb887",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Alpha",
+    "amount": 5372.77,
+    "date": "2022-04-16"
+  },
+  {
+    "id": "b83209e3-5e21-4233-8c3b-5dcc8d07f15d",
+    "customer_id": "83ca25d2-90f6-47da-8deb-ed28bce28bee",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Delta",
+    "amount": 4487.55,
+    "date": "2021-12-03"
+  },
+  {
+    "id": "5741da7e-e9c9-4714-8c37-73a35a7d83c4",
+    "customer_id": "b759789e-267b-4880-b551-33ba8bf773dd",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Beta",
+    "amount": 4497.32,
+    "date": "2022-06-21"
+  },
+  {
+    "id": "2fd008a4-c586-4e33-9495-0e2cefcca071",
+    "customer_id": "f773074f-0fe5-4ff0-90f1-40b80d803426",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Gamma",
+    "amount": 17293.84,
+    "date": "2021-12-09"
+  },
+  {
+    "id": "f6adea62-d3f8-4cda-bd83-b161ccabae4b",
+    "customer_id": "04677591-446a-4a41-a80f-07b481760675",
+    "sales_rep_id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "product": "Gamma",
+    "amount": 8023.58,
+    "date": "2018-04-24"
+  },
+  {
+    "id": "557da66e-ba37-4507-ac25-71f90c6a0fa7",
+    "customer_id": "9ad8ac31-e8ea-4e87-b86c-b22492403fec",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Gamma",
+    "amount": 3612.43,
+    "date": "2018-06-06"
+  },
+  {
+    "id": "c3bdf78a-2c4d-41d6-b444-b0968cc9725e",
+    "customer_id": "e58a33e5-6ebd-4efa-b610-cfc402121acb",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Gamma",
+    "amount": 8719.55,
+    "date": "2022-11-23"
+  },
+  {
+    "id": "1f8af3fa-99a8-4063-9d8b-26123bb48cd2",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "sales_rep_id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "product": "Beta",
+    "amount": 2357.13,
+    "date": "2020-11-09"
+  },
+  {
+    "id": "c51cc3b7-2723-4e80-8254-a3ffe073ce42",
+    "customer_id": "83ca25d2-90f6-47da-8deb-ed28bce28bee",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Beta",
+    "amount": 83.74,
+    "date": "2022-01-31"
+  },
+  {
+    "id": "2ab94785-08d6-4bf6-b51d-be7cdd9351cf",
+    "customer_id": "d99f6a24-9701-484a-8950-1c3c34a49b6a",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Gamma",
+    "amount": 18980.05,
+    "date": "2024-12-27"
+  },
+  {
+    "id": "acbb813e-1830-4b7e-b6b6-dc971b0a1fb5",
+    "customer_id": "447849ab-8271-4791-af99-dd02c8b88305",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Gamma",
+    "amount": 14409.1,
+    "date": "2023-09-09"
+  },
+  {
+    "id": "3ca1a41c-7c67-4a7f-a3e1-c1c4c16a1313",
+    "customer_id": "b759789e-267b-4880-b551-33ba8bf773dd",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Gamma",
+    "amount": 6557.35,
+    "date": "2024-03-20"
+  },
+  {
+    "id": "4b64c72f-6c40-4640-a70f-e879147f7981",
+    "customer_id": "843ad742-1c9e-41cc-b1ae-51a5d5169938",
+    "sales_rep_id": "36504ca7-f6b4-4777-8d0b-8796757c9717",
+    "product": "Delta",
+    "amount": 8437.9,
+    "date": "2025-08-06"
+  },
+  {
+    "id": "8fb5995d-8346-40fc-958e-7216557090de",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "8281633f-fec2-4ea8-ad9c-d5b687c65fb7",
+    "product": "Gamma",
+    "amount": 12329.52,
+    "date": "2022-07-22"
+  },
+  {
+    "id": "e8686afa-7cc2-4fb3-b85d-6d6a4c1b03d2",
+    "customer_id": "c1df9583-2856-4e28-8abc-0db33fef1607",
+    "sales_rep_id": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "product": "Beta",
+    "amount": 6112.31,
+    "date": "2022-10-27"
+  },
+  {
+    "id": "a8c0cde7-67a2-489b-9338-bcb1a63eb883",
+    "customer_id": "776a1243-db89-4094-9a19-5239ff01cb44",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Delta",
+    "amount": 13111.38,
+    "date": "2022-12-15"
+  },
+  {
+    "id": "5a516a92-2632-4c38-a33d-fc5b52680655",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "36504ca7-f6b4-4777-8d0b-8796757c9717",
+    "product": "Beta",
+    "amount": 10247.92,
+    "date": "2025-05-22"
+  },
+  {
+    "id": "88fe9c95-d8ac-4696-b68a-c32dd6c9e205",
+    "customer_id": "da7ad597-4e59-4f6d-9df2-80497964cc8c",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Gamma",
+    "amount": 10333.27,
+    "date": "2019-01-18"
+  },
+  {
+    "id": "7dcee4ed-dceb-4035-82e8-a3fecfec2dd0",
+    "customer_id": "fc4ca1fa-bf90-4514-b11d-32470052cb94",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Beta",
+    "amount": 13472.27,
+    "date": "2020-03-26"
+  },
+  {
+    "id": "8a20c3a0-72d8-43e8-8a02-bbf177c2997b",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "product": "Delta",
+    "amount": 971.96,
+    "date": "2024-11-08"
+  },
+  {
+    "id": "77c2edba-6914-447d-b9cd-6a0487c69056",
+    "customer_id": "28063d33-6eea-4069-a129-fc095e40ee75",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Beta",
+    "amount": 9135.55,
+    "date": "2026-01-21"
+  },
+  {
+    "id": "6dbe562d-f415-4bc4-b765-51177e275697",
+    "customer_id": "79d802c4-4a7c-47f1-90d8-f050d0dd6c05",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Beta",
+    "amount": 9912.82,
+    "date": "2019-08-28"
+  },
+  {
+    "id": "f46a98f3-ca68-4144-bef5-f9d78bd91d77",
+    "customer_id": "04677591-446a-4a41-a80f-07b481760675",
+    "sales_rep_id": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "product": "Alpha",
+    "amount": 17858.56,
+    "date": "2022-10-08"
+  },
+  {
+    "id": "3631cf33-5e73-4f65-baa6-5e57da20a230",
+    "customer_id": "f6f4c330-d05e-4aa4-aa98-a8006997253c",
+    "sales_rep_id": "8281633f-fec2-4ea8-ad9c-d5b687c65fb7",
+    "product": "Delta",
+    "amount": 16091.99,
+    "date": "2018-07-25"
+  },
+  {
+    "id": "6d84561b-2415-4f4f-99ff-e35951990380",
+    "customer_id": "c1df9583-2856-4e28-8abc-0db33fef1607",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Alpha",
+    "amount": 18353.53,
+    "date": "2023-02-13"
+  },
+  {
+    "id": "ab247a4a-f629-4d57-a4da-72e8e5297596",
+    "customer_id": "843ad742-1c9e-41cc-b1ae-51a5d5169938",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Gamma",
+    "amount": 13368.18,
+    "date": "2022-12-18"
+  },
+  {
+    "id": "5e99532b-576c-44aa-a73b-ed0281bc4063",
+    "customer_id": "b387aa80-3d24-449d-ac2b-2dc1a00155ce",
+    "sales_rep_id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "product": "Delta",
+    "amount": 8563.48,
+    "date": "2019-10-14"
+  },
+  {
+    "id": "52be47c6-d6cb-43a3-9090-69b08c738ce7",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Beta",
+    "amount": 9028.89,
+    "date": "2025-02-24"
+  },
+  {
+    "id": "8901fef9-6415-4160-9778-516c2968f662",
+    "customer_id": "95e5fca1-dd5a-4e5b-b906-9dd3ac9af42a",
+    "sales_rep_id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "product": "Beta",
+    "amount": 9717.71,
+    "date": "2021-01-29"
+  },
+  {
+    "id": "155cdb7d-97ff-4698-8509-f7f334aab2cc",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Beta",
+    "amount": 14285.22,
+    "date": "2021-01-17"
+  },
+  {
+    "id": "c71be22e-6c6c-4e9b-8a42-d17786e64833",
+    "customer_id": "f773074f-0fe5-4ff0-90f1-40b80d803426",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Alpha",
+    "amount": 17865.89,
+    "date": "2019-07-21"
+  },
+  {
+    "id": "749ad6bc-99a3-4847-822c-30a6a1345514",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Beta",
+    "amount": 7691.55,
+    "date": "2025-12-03"
+  },
+  {
+    "id": "146e44b0-3dda-4893-9ef8-62818fec51e5",
+    "customer_id": "2626f9c7-c4a2-4617-bc9f-e827f0714221",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Gamma",
+    "amount": 8326.61,
+    "date": "2024-02-01"
+  },
+  {
+    "id": "ec990c72-74a4-41ac-8c89-1cdfd7db60fc",
+    "customer_id": "c2553cb8-2d89-4407-bc37-b4c269be448f",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Delta",
+    "amount": 1292.2,
+    "date": "2022-05-15"
+  },
+  {
+    "id": "9d83cc4d-87d1-4b8b-b2e6-4ed40779a2f4",
+    "customer_id": "28063d33-6eea-4069-a129-fc095e40ee75",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Alpha",
+    "amount": 18923.94,
+    "date": "2024-06-16"
+  },
+  {
+    "id": "2efdd424-bd96-46ac-bf6e-49e70f8a9e7c",
+    "customer_id": "35b9442f-6973-46e3-a528-9c003e795b6a",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Gamma",
+    "amount": 167.63,
+    "date": "2021-05-08"
+  },
+  {
+    "id": "90e94247-182b-4fd4-b6dd-766fe9b35860",
+    "customer_id": "fc4ca1fa-bf90-4514-b11d-32470052cb94",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Delta",
+    "amount": 17076.29,
+    "date": "2024-01-14"
+  },
+  {
+    "id": "e8c18c99-9b5e-48ba-96c3-ea6de1c638d7",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Beta",
+    "amount": 16007.37,
+    "date": "2023-06-23"
+  },
+  {
+    "id": "72c0627d-8096-4dbd-bbbc-5282866e455e",
+    "customer_id": "f6f4c330-d05e-4aa4-aa98-a8006997253c",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Alpha",
+    "amount": 8744.93,
+    "date": "2022-05-12"
+  },
+  {
+    "id": "30630bca-a595-4c15-9345-b16adbd0b890",
+    "customer_id": "f773074f-0fe5-4ff0-90f1-40b80d803426",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Delta",
+    "amount": 14497.42,
+    "date": "2019-06-07"
+  },
+  {
+    "id": "80e6a8c5-7735-4d12-ad53-1993235e6990",
+    "customer_id": "b387aa80-3d24-449d-ac2b-2dc1a00155ce",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Delta",
+    "amount": 587.98,
+    "date": "2024-08-21"
+  },
+  {
+    "id": "72ffe764-0594-41df-a6b5-afcf031e17e2",
+    "customer_id": "ba7ef2b3-3d31-4f1b-9568-4e152e1f9668",
+    "sales_rep_id": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "product": "Delta",
+    "amount": 1724.75,
+    "date": "2019-07-10"
+  },
+  {
+    "id": "563e0e96-85f7-4c70-bd27-8e9b01b6bcf8",
+    "customer_id": "c2553cb8-2d89-4407-bc37-b4c269be448f",
+    "sales_rep_id": "8281633f-fec2-4ea8-ad9c-d5b687c65fb7",
+    "product": "Delta",
+    "amount": 1053.18,
+    "date": "2021-09-02"
+  },
+  {
+    "id": "82ef2ef1-0fe3-4034-a52d-9a84b99dcede",
+    "customer_id": "2626f9c7-c4a2-4617-bc9f-e827f0714221",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Delta",
+    "amount": 6570.57,
+    "date": "2021-02-13"
+  },
+  {
+    "id": "9a3de631-f36c-4d64-9278-52ddcba428a6",
+    "customer_id": "fc4ca1fa-bf90-4514-b11d-32470052cb94",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Alpha",
+    "amount": 5082.82,
+    "date": "2023-04-11"
+  },
+  {
+    "id": "65898c38-1056-418b-bb68-370549c6fac5",
+    "customer_id": "7b59bf60-64a0-4c41-a28f-bb5f991e96b9",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Gamma",
+    "amount": 1089.11,
+    "date": "2020-07-07"
+  },
+  {
+    "id": "4cf70a2b-16b1-40c7-9f1b-7010ae043b3a",
+    "customer_id": "04677591-446a-4a41-a80f-07b481760675",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Alpha",
+    "amount": 15635.6,
+    "date": "2018-05-08"
+  },
+  {
+    "id": "68167137-c1ce-4669-81a5-017a7fe0f992",
+    "customer_id": "f612d6e0-e446-4042-98b1-86a8e7f7e5cb",
+    "sales_rep_id": "36504ca7-f6b4-4777-8d0b-8796757c9717",
+    "product": "Beta",
+    "amount": 16792.62,
+    "date": "2020-09-04"
+  },
+  {
+    "id": "0870e45f-fd0c-4083-87e3-8a4a7c72073f",
+    "customer_id": "843ad742-1c9e-41cc-b1ae-51a5d5169938",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Beta",
+    "amount": 13405.7,
+    "date": "2023-03-20"
+  },
+  {
+    "id": "acc2d532-134d-49d0-aa4c-1a8b2d46b665",
+    "customer_id": "79d802c4-4a7c-47f1-90d8-f050d0dd6c05",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Beta",
+    "amount": 15349.62,
+    "date": "2024-10-17"
+  },
+  {
+    "id": "ca985910-bc04-441a-a86b-5da43c114256",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Beta",
+    "amount": 15566.95,
+    "date": "2021-06-28"
+  },
+  {
+    "id": "a902b9b9-b636-46fa-bae1-6d8f764d09d9",
+    "customer_id": "e58a33e5-6ebd-4efa-b610-cfc402121acb",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Gamma",
+    "amount": 562.28,
+    "date": "2024-06-16"
+  },
+  {
+    "id": "a9767750-0f8d-4f18-8fc0-245653e695c7",
+    "customer_id": "7319e30b-36d9-43ba-b01c-f3f3c8faa86b",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Beta",
+    "amount": 7963.26,
+    "date": "2018-11-08"
+  },
+  {
+    "id": "a3e2059e-a761-4bb8-a912-a918fde6932f",
+    "customer_id": "776a1243-db89-4094-9a19-5239ff01cb44",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Gamma",
+    "amount": 2082.93,
+    "date": "2025-09-03"
+  },
+  {
+    "id": "d4cba1bd-e733-47ec-bd1f-098a52292a94",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Alpha",
+    "amount": 15934.73,
+    "date": "2021-11-23"
+  },
+  {
+    "id": "8aa1a82b-1470-4b59-b265-aa83e26fe66b",
+    "customer_id": "538ada81-b0e7-453b-a4cc-8e8d0d704afb",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Alpha",
+    "amount": 13247.35,
+    "date": "2023-09-04"
+  },
+  {
+    "id": "ab16470a-5585-47b2-a48f-e29f591ca835",
+    "customer_id": "04677591-446a-4a41-a80f-07b481760675",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Delta",
+    "amount": 302.41,
+    "date": "2023-07-01"
+  },
+  {
+    "id": "e6a57c6a-9881-4d03-8e29-8b0b4bd010bd",
+    "customer_id": "e58a33e5-6ebd-4efa-b610-cfc402121acb",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Delta",
+    "amount": 19217.71,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "930515ea-6c5a-47f8-ab02-68f15fefc04f",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Gamma",
+    "amount": 3563.93,
+    "date": "2024-11-27"
+  },
+  {
+    "id": "7797e425-2837-4540-a681-2b48edb05d59",
+    "customer_id": "538ada81-b0e7-453b-a4cc-8e8d0d704afb",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Gamma",
+    "amount": 9324.23,
+    "date": "2021-08-13"
+  },
+  {
+    "id": "8725a54e-c074-44ed-99e9-303985cf7e0b",
+    "customer_id": "f612d6e0-e446-4042-98b1-86a8e7f7e5cb",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Delta",
+    "amount": 5614.62,
+    "date": "2020-09-25"
+  },
+  {
+    "id": "0826720b-5492-43b6-b22f-92f0aad89371",
+    "customer_id": "fc4ca1fa-bf90-4514-b11d-32470052cb94",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Delta",
+    "amount": 11418.5,
+    "date": "2021-10-09"
+  },
+  {
+    "id": "ecc370bc-3547-47df-81a5-b109b4b8e9d2",
+    "customer_id": "7b59bf60-64a0-4c41-a28f-bb5f991e96b9",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Beta",
+    "amount": 17026.51,
+    "date": "2023-06-21"
+  },
+  {
+    "id": "409c7fdc-51d0-4956-8711-a12a6cffc02b",
+    "customer_id": "2626f9c7-c4a2-4617-bc9f-e827f0714221",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Gamma",
+    "amount": 15966.76,
+    "date": "2021-02-19"
+  },
+  {
+    "id": "2c4de5a0-1021-4aa9-b9da-2068b7a95147",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Beta",
+    "amount": 11138.03,
+    "date": "2018-12-17"
+  },
+  {
+    "id": "318ea366-2290-4a09-8653-bbdde46b0ad4",
+    "customer_id": "f612d6e0-e446-4042-98b1-86a8e7f7e5cb",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Beta",
+    "amount": 9797.13,
+    "date": "2025-09-29"
+  },
+  {
+    "id": "f7f6f819-2631-4bd6-b663-381b4b2e4957",
+    "customer_id": "8fa608b2-9c2a-4a85-b8c9-c359841f50b0",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Alpha",
+    "amount": 8991.08,
+    "date": "2019-01-17"
+  },
+  {
+    "id": "87143224-ba95-4751-8960-c2bdee6c6cfe",
+    "customer_id": "ca721ea8-bd59-4798-bf14-e5c7064a1c1b",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Beta",
+    "amount": 8117.8,
+    "date": "2021-06-08"
+  },
+  {
+    "id": "39f093cb-27a7-4d81-b665-52b970248b12",
+    "customer_id": "8e7ec55e-926e-4ba8-91e5-e7763e6bb887",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Gamma",
+    "amount": 7411.96,
+    "date": "2022-10-09"
+  },
+  {
+    "id": "a36c409d-6ec2-4767-b9df-71f53fa7585f",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Delta",
+    "amount": 6649.29,
+    "date": "2021-01-14"
+  },
+  {
+    "id": "236b133a-d358-4019-a93b-b037314b5678",
+    "customer_id": "b759789e-267b-4880-b551-33ba8bf773dd",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Beta",
+    "amount": 4649.23,
+    "date": "2021-07-16"
+  },
+  {
+    "id": "d135c971-e11b-429f-8a79-3431b882723f",
+    "customer_id": "9ad8ac31-e8ea-4e87-b86c-b22492403fec",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Beta",
+    "amount": 19020.01,
+    "date": "2020-02-24"
+  },
+  {
+    "id": "2cd38eb0-b873-4f89-9daf-076e440c1a3f",
+    "customer_id": "2626f9c7-c4a2-4617-bc9f-e827f0714221",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Gamma",
+    "amount": 5566.17,
+    "date": "2019-02-16"
+  },
+  {
+    "id": "abc41ca0-344d-4950-9273-de86e15de9b6",
+    "customer_id": "c8711483-8191-4fdd-8050-80894b74bae9",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Beta",
+    "amount": 4588.29,
+    "date": "2021-05-23"
+  },
+  {
+    "id": "551c7411-ee5c-4db4-9bcc-8e13063cbf1c",
+    "customer_id": "db82fc6b-1002-4ad5-ac95-43ac399d0bb3",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Alpha",
+    "amount": 2575.33,
+    "date": "2018-08-12"
+  },
+  {
+    "id": "d0a0e614-55db-4621-aab2-12e7dd861fa1",
+    "customer_id": "c1df9583-2856-4e28-8abc-0db33fef1607",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Beta",
+    "amount": 13963.48,
+    "date": "2025-02-25"
+  },
+  {
+    "id": "317c176a-e317-47ba-84d6-a65ccf210a2c",
+    "customer_id": "fc4ca1fa-bf90-4514-b11d-32470052cb94",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Alpha",
+    "amount": 2096.62,
+    "date": "2024-06-09"
+  },
+  {
+    "id": "9ef89374-b3dc-4ab6-b7d2-ab6c59a1922d",
+    "customer_id": "ca721ea8-bd59-4798-bf14-e5c7064a1c1b",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Gamma",
+    "amount": 9600.35,
+    "date": "2020-01-26"
+  },
+  {
+    "id": "4ca6bf25-72a8-40ff-9445-374e01236509",
+    "customer_id": "1affc2f8-7460-4ee7-a12c-3f345f45b43a",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Delta",
+    "amount": 18824.22,
+    "date": "2019-04-13"
+  },
+  {
+    "id": "b683af35-fbc3-4813-b647-ede5a86814d3",
+    "customer_id": "7e0a1c1a-77f2-499b-8fee-15af7be1fbd5",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Alpha",
+    "amount": 9860.34,
+    "date": "2019-09-14"
+  },
+  {
+    "id": "157edd37-c6ed-4afb-b3c3-77342b5f7b8b",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Alpha",
+    "amount": 18985.06,
+    "date": "2020-10-13"
+  },
+  {
+    "id": "3f493606-fc41-4531-9a9a-38c60ee2057a",
+    "customer_id": "9ad8ac31-e8ea-4e87-b86c-b22492403fec",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Beta",
+    "amount": 15300.65,
+    "date": "2023-11-11"
+  },
+  {
+    "id": "fdd76489-b7f2-4e96-84f0-55981bd13200",
+    "customer_id": "35b9442f-6973-46e3-a528-9c003e795b6a",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Gamma",
+    "amount": 18174.66,
+    "date": "2024-08-07"
+  },
+  {
+    "id": "747c08b8-fc60-46e5-bc40-046e45e76b7a",
+    "customer_id": "d99f6a24-9701-484a-8950-1c3c34a49b6a",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Alpha",
+    "amount": 11394.16,
+    "date": "2024-11-02"
+  },
+  {
+    "id": "1b1431d9-63fd-4a64-b065-075fd3651cbe",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Beta",
+    "amount": 18954.42,
+    "date": "2025-01-06"
+  },
+  {
+    "id": "ef095518-7a2c-4e54-92cb-474a438035f6",
+    "customer_id": "2626f9c7-c4a2-4617-bc9f-e827f0714221",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Beta",
+    "amount": 13225.54,
+    "date": "2020-09-09"
+  },
+  {
+    "id": "8b455c08-2bc2-4399-bded-bec14a517828",
+    "customer_id": "cbfe2ff6-e7ae-4a75-884c-ff58bdc1d343",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Alpha",
+    "amount": 1547.54,
+    "date": "2022-08-01"
+  },
+  {
+    "id": "b76f0977-3859-4b96-976e-bf4464b75b22",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Alpha",
+    "amount": 9424.75,
+    "date": "2020-08-06"
+  },
+  {
+    "id": "fa110477-6348-466e-9bc7-4eb81e9f81f3",
+    "customer_id": "ca721ea8-bd59-4798-bf14-e5c7064a1c1b",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Delta",
+    "amount": 14074.6,
+    "date": "2018-10-19"
+  },
+  {
+    "id": "40dc2d9a-c5e5-49b8-bae8-68a788b9e0a1",
+    "customer_id": "7319e30b-36d9-43ba-b01c-f3f3c8faa86b",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Beta",
+    "amount": 18482.03,
+    "date": "2022-10-08"
+  },
+  {
+    "id": "0ae1814e-666d-4940-a046-205c29e6e2fc",
+    "customer_id": "9ad8ac31-e8ea-4e87-b86c-b22492403fec",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Beta",
+    "amount": 4534.95,
+    "date": "2020-12-24"
+  },
+  {
+    "id": "45460ecd-d9e7-4bd8-bebb-81572d650706",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Gamma",
+    "amount": 1239.78,
+    "date": "2024-09-03"
+  },
+  {
+    "id": "05967376-a893-45a9-bcf0-7d6dea5911b6",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Delta",
+    "amount": 18427.79,
+    "date": "2019-05-25"
+  },
+  {
+    "id": "ad334ee7-ed60-4aba-a2da-596ffb51cb6b",
+    "customer_id": "c2553cb8-2d89-4407-bc37-b4c269be448f",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Gamma",
+    "amount": 14009.69,
+    "date": "2023-08-12"
+  },
+  {
+    "id": "dd380e1e-34e1-46a0-8072-0616a53663fd",
+    "customer_id": "538ada81-b0e7-453b-a4cc-8e8d0d704afb",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Alpha",
+    "amount": 8783.29,
+    "date": "2022-11-05"
+  },
+  {
+    "id": "c2e18b19-5399-417a-a93b-24b4a026e02a",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Alpha",
+    "amount": 12094.09,
+    "date": "2019-01-10"
+  },
+  {
+    "id": "73adeee5-df74-443a-ac6a-e3c7840eb2da",
+    "customer_id": "f6f4c330-d05e-4aa4-aa98-a8006997253c",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Alpha",
+    "amount": 11763.1,
+    "date": "2025-07-16"
+  },
+  {
+    "id": "add0daee-b305-4804-8201-b97bd9635ea8",
+    "customer_id": "95e5fca1-dd5a-4e5b-b906-9dd3ac9af42a",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Beta",
+    "amount": 852.62,
+    "date": "2023-04-12"
+  },
+  {
+    "id": "75d1c742-8215-41ae-9d5c-f4310179a9d9",
+    "customer_id": "cfada1bd-56e5-4361-9ff4-e0252040f60d",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Beta",
+    "amount": 18325.65,
+    "date": "2024-07-25"
+  },
+  {
+    "id": "1d2793b1-cf1f-4d23-83eb-8da11183157b",
+    "customer_id": "d99f6a24-9701-484a-8950-1c3c34a49b6a",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Delta",
+    "amount": 19382.65,
+    "date": "2021-11-26"
+  },
+  {
+    "id": "8ef0785b-37bd-421d-b092-87cc47247fd6",
+    "customer_id": "f3de837f-2615-42c1-9cdc-436d895e2832",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Alpha",
+    "amount": 6455.11,
+    "date": "2019-10-21"
+  },
+  {
+    "id": "ce0b6c22-75d1-4657-835e-e9086b340679",
+    "customer_id": "f773074f-0fe5-4ff0-90f1-40b80d803426",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Gamma",
+    "amount": 13888.79,
+    "date": "2025-06-06"
+  },
+  {
+    "id": "a6b586d6-5757-4513-b3d3-10f556bff25b",
+    "customer_id": "bb8891fc-d3fc-4360-ab5e-590d0b4c04b4",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Alpha",
+    "amount": 782.11,
+    "date": "2021-07-12"
+  },
+  {
+    "id": "75453a98-e303-4655-b0a6-d8ef67320cf9",
+    "customer_id": "596f3360-dbe8-48d4-a6ba-2402c395190c",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Delta",
+    "amount": 2362.64,
+    "date": "2023-10-09"
+  },
+  {
+    "id": "6130fb05-859f-4fdd-b8f1-fdf7e50ebf28",
+    "customer_id": "db82fc6b-1002-4ad5-ac95-43ac399d0bb3",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Alpha",
+    "amount": 9266.43,
+    "date": "2020-02-08"
+  },
+  {
+    "id": "c9a1cae3-f87f-4ca7-aaf6-57911014419d",
+    "customer_id": "cfada1bd-56e5-4361-9ff4-e0252040f60d",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Delta",
+    "amount": 12471.55,
+    "date": "2025-01-05"
+  },
+  {
+    "id": "eb1b9bb9-9210-42b4-816c-e48519a685d6",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "966c3022-d6fe-4a58-8604-55137a26c510",
+    "product": "Beta",
+    "amount": 4110.99,
+    "date": "2021-03-25"
+  },
+  {
+    "id": "240569a7-9cfe-4232-80da-50196a9bd010",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Beta",
+    "amount": 2472.45,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "03c68234-63f4-41be-bdd5-abaad29e62b6",
+    "customer_id": "40a5a988-4827-46fe-a319-bcc481014927",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Delta",
+    "amount": 11039.24,
+    "date": "2019-01-17"
+  },
+  {
+    "id": "5f15ad99-e969-4b58-a9e2-c49273ccc4c0",
+    "customer_id": "f6f4c330-d05e-4aa4-aa98-a8006997253c",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Alpha",
+    "amount": 9255.89,
+    "date": "2025-04-07"
+  },
+  {
+    "id": "935e731e-ee88-4c06-903e-a79974c58774",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Gamma",
+    "amount": 18656.43,
+    "date": "2023-09-16"
+  },
+  {
+    "id": "3cd788f0-454f-4cdb-bbce-8851bebc89c3",
+    "customer_id": "0ad03d9a-405f-47cb-8631-db88ab9c673a",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Delta",
+    "amount": 8339.03,
+    "date": "2023-04-19"
+  },
+  {
+    "id": "1cdf72bd-304a-4a58-9cf8-b420dc190af7",
+    "customer_id": "f612d6e0-e446-4042-98b1-86a8e7f7e5cb",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Delta",
+    "amount": 11047.74,
+    "date": "2020-02-20"
+  },
+  {
+    "id": "3589ed25-1a07-4d55-b215-aa977122b36c",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "sales_rep_id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "product": "Beta",
+    "amount": 14938.54,
+    "date": "2018-10-13"
+  },
+  {
+    "id": "b297a04d-d4a4-40e2-8038-7b68794e559b",
+    "customer_id": "95e5fca1-dd5a-4e5b-b906-9dd3ac9af42a",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Gamma",
+    "amount": 6830.51,
+    "date": "2018-01-11"
+  },
+  {
+    "id": "032f6277-7ded-4d1f-b8c4-cb4b693f964b",
+    "customer_id": "ca721ea8-bd59-4798-bf14-e5c7064a1c1b",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Delta",
+    "amount": 16757.64,
+    "date": "2019-09-01"
+  },
+  {
+    "id": "1577ec18-7519-42d9-bcfd-8eb7ed12b7b3",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Gamma",
+    "amount": 9712.61,
+    "date": "2024-03-10"
+  },
+  {
+    "id": "ed1390d3-dd44-43f2-b759-328d5eef75f7",
+    "customer_id": "fc4ca1fa-bf90-4514-b11d-32470052cb94",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Gamma",
+    "amount": 7575.34,
+    "date": "2020-02-12"
+  },
+  {
+    "id": "3f509095-e13d-4998-b528-e143f9427ebd",
+    "customer_id": "79d802c4-4a7c-47f1-90d8-f050d0dd6c05",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Beta",
+    "amount": 11457.36,
+    "date": "2022-08-10"
+  },
+  {
+    "id": "4dba0081-52bd-480a-be5a-a970cbf27138",
+    "customer_id": "83ca25d2-90f6-47da-8deb-ed28bce28bee",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Delta",
+    "amount": 14906.87,
+    "date": "2022-05-01"
+  },
+  {
+    "id": "e66cd0e7-42b9-4ccb-aabe-c458398949ba",
+    "customer_id": "8e7ec55e-926e-4ba8-91e5-e7763e6bb887",
+    "sales_rep_id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "product": "Alpha",
+    "amount": 9931.81,
+    "date": "2019-06-02"
+  },
+  {
+    "id": "70ea5066-2c1d-4bc8-b97c-2609d4daa75a",
+    "customer_id": "c3ed8020-8a33-4288-a097-0c38125d7953",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Alpha",
+    "amount": 6673.29,
+    "date": "2022-12-09"
+  },
+  {
+    "id": "e63ef384-6e1c-4b95-a25b-63e4e0dbf128",
+    "customer_id": "e58a33e5-6ebd-4efa-b610-cfc402121acb",
+    "sales_rep_id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "product": "Alpha",
+    "amount": 18213.31,
+    "date": "2019-08-14"
+  },
+  {
+    "id": "48a88845-211d-422e-af18-0ed595faa1e0",
+    "customer_id": "f3de837f-2615-42c1-9cdc-436d895e2832",
+    "sales_rep_id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "product": "Gamma",
+    "amount": 1542.82,
+    "date": "2021-10-18"
+  },
+  {
+    "id": "fc896ffb-b8ef-49c0-b943-e0c768fc3ec6",
+    "customer_id": "b387aa80-3d24-449d-ac2b-2dc1a00155ce",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Gamma",
+    "amount": 13014.24,
+    "date": "2025-07-25"
+  },
+  {
+    "id": "59368f85-4221-4229-9cce-bf13e416f81e",
+    "customer_id": "538ada81-b0e7-453b-a4cc-8e8d0d704afb",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Delta",
+    "amount": 19085.08,
+    "date": "2024-01-26"
+  },
+  {
+    "id": "fc563057-741b-4982-89dc-efe3cb2836a9",
+    "customer_id": "83ca25d2-90f6-47da-8deb-ed28bce28bee",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Gamma",
+    "amount": 1414.99,
+    "date": "2020-07-20"
+  },
+  {
+    "id": "c65c279c-96ff-4796-9052-c4a4eb7ffb64",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Alpha",
+    "amount": 8707.73,
+    "date": "2025-02-08"
+  },
+  {
+    "id": "9eb2146c-da96-4a5f-a209-cc10cadacc31",
+    "customer_id": "0ad03d9a-405f-47cb-8631-db88ab9c673a",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Gamma",
+    "amount": 8901.39,
+    "date": "2018-04-29"
+  },
+  {
+    "id": "924e25af-0488-4b1a-8104-d0aac40a0333",
+    "customer_id": "83ca25d2-90f6-47da-8deb-ed28bce28bee",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Gamma",
+    "amount": 15933.06,
+    "date": "2022-01-08"
+  },
+  {
+    "id": "f24260e0-100a-467f-9565-3cb420b17bb6",
+    "customer_id": "200d8243-0b22-436a-8f47-b104df03bf16",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Delta",
+    "amount": 2954.12,
+    "date": "2024-05-07"
+  },
+  {
+    "id": "c781a0ea-2ab0-4c51-b044-f84f22a662c1",
+    "customer_id": "7319e30b-36d9-43ba-b01c-f3f3c8faa86b",
+    "sales_rep_id": "8281633f-fec2-4ea8-ad9c-d5b687c65fb7",
+    "product": "Alpha",
+    "amount": 3441.17,
+    "date": "2024-11-01"
+  },
+  {
+    "id": "e9b86cc4-0405-4dfc-9ba4-392b3c0d3184",
+    "customer_id": "35b9442f-6973-46e3-a528-9c003e795b6a",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Delta",
+    "amount": 13678.53,
+    "date": "2024-07-16"
+  },
+  {
+    "id": "4dc2523f-de49-4069-916a-a9bd728deae0",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Gamma",
+    "amount": 9249.94,
+    "date": "2023-02-26"
+  },
+  {
+    "id": "6b28a82a-c1b6-46a1-9eb0-cb7862876412",
+    "customer_id": "596f3360-dbe8-48d4-a6ba-2402c395190c",
+    "sales_rep_id": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "product": "Delta",
+    "amount": 17983.23,
+    "date": "2021-03-24"
+  },
+  {
+    "id": "d6103eaf-054d-43b5-9617-1b92fb555404",
+    "customer_id": "7319e30b-36d9-43ba-b01c-f3f3c8faa86b",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Delta",
+    "amount": 3201.61,
+    "date": "2021-11-16"
+  },
+  {
+    "id": "56d6bcb7-0bfb-44de-8ac0-414d9cb02c9f",
+    "customer_id": "776a1243-db89-4094-9a19-5239ff01cb44",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Delta",
+    "amount": 12796.83,
+    "date": "2025-09-28"
+  },
+  {
+    "id": "b1a3a3c3-c466-424b-a2d5-1dccadddbe61",
+    "customer_id": "596f3360-dbe8-48d4-a6ba-2402c395190c",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Beta",
+    "amount": 16913.81,
+    "date": "2022-04-25"
+  },
+  {
+    "id": "550bf893-65fc-4805-8ecf-cbb1c39eef0f",
+    "customer_id": "8fa608b2-9c2a-4a85-b8c9-c359841f50b0",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Gamma",
+    "amount": 4782.25,
+    "date": "2024-06-12"
+  },
+  {
+    "id": "c48f0a5d-69f3-4671-9a79-2dc0eef15caf",
+    "customer_id": "ca721ea8-bd59-4798-bf14-e5c7064a1c1b",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Delta",
+    "amount": 487.69,
+    "date": "2021-01-29"
+  },
+  {
+    "id": "7fc799a6-a360-48f3-802b-6a54fe3f48ce",
+    "customer_id": "db82fc6b-1002-4ad5-ac95-43ac399d0bb3",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Alpha",
+    "amount": 17308.09,
+    "date": "2024-10-19"
+  },
+  {
+    "id": "1d989139-3b54-4adf-994e-2138429cb31c",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Gamma",
+    "amount": 16665.14,
+    "date": "2020-07-31"
+  },
+  {
+    "id": "40a8b7db-19da-497a-8fdf-cd18be848561",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Beta",
+    "amount": 4419.14,
+    "date": "2024-12-18"
+  },
+  {
+    "id": "46bcf25b-bdee-447e-bfa2-713d8770f613",
+    "customer_id": "596f3360-dbe8-48d4-a6ba-2402c395190c",
+    "sales_rep_id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "product": "Alpha",
+    "amount": 12583.55,
+    "date": "2021-06-19"
+  },
+  {
+    "id": "df43cff6-ae89-4aaa-abf2-9252e79f64a6",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "966c3022-d6fe-4a58-8604-55137a26c510",
+    "product": "Beta",
+    "amount": 11612.5,
+    "date": "2019-01-05"
+  },
+  {
+    "id": "1c46ed24-f2a7-49f6-9662-83c2b95b5f8a",
+    "customer_id": "ca721ea8-bd59-4798-bf14-e5c7064a1c1b",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Beta",
+    "amount": 14962.24,
+    "date": "2020-04-02"
+  },
+  {
+    "id": "9877ccce-cdde-4fd7-95b4-d6e0703e665d",
+    "customer_id": "843ad742-1c9e-41cc-b1ae-51a5d5169938",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Gamma",
+    "amount": 17535.39,
+    "date": "2023-12-15"
+  },
+  {
+    "id": "ea2f325d-8359-4293-9efd-ccf2caa59e82",
+    "customer_id": "c3ed8020-8a33-4288-a097-0c38125d7953",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Gamma",
+    "amount": 16617.93,
+    "date": "2023-05-28"
+  },
+  {
+    "id": "6aaff66b-85b5-4908-bd55-450ca848b488",
+    "customer_id": "ca721ea8-bd59-4798-bf14-e5c7064a1c1b",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Delta",
+    "amount": 16094.44,
+    "date": "2018-11-05"
+  },
+  {
+    "id": "2b20becc-7376-4275-ae53-ce2df2a26bf4",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Delta",
+    "amount": 17209.8,
+    "date": "2024-04-01"
+  },
+  {
+    "id": "5e20cf85-ea4c-44d0-86a7-25fe04be1105",
+    "customer_id": "200d8243-0b22-436a-8f47-b104df03bf16",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Alpha",
+    "amount": 15824.11,
+    "date": "2020-12-19"
+  },
+  {
+    "id": "75954f52-ae79-4eaa-9c4b-f40a61362b3d",
+    "customer_id": "538ada81-b0e7-453b-a4cc-8e8d0d704afb",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Gamma",
+    "amount": 9122.98,
+    "date": "2024-07-22"
+  },
+  {
+    "id": "1d28d26b-b70d-422e-8d51-6dc4cc3206de",
+    "customer_id": "35b9442f-6973-46e3-a528-9c003e795b6a",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Beta",
+    "amount": 2211.5,
+    "date": "2023-04-16"
+  },
+  {
+    "id": "0144def5-43f8-4302-a6f6-54d60f8b2122",
+    "customer_id": "7b59bf60-64a0-4c41-a28f-bb5f991e96b9",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Gamma",
+    "amount": 17690.49,
+    "date": "2024-11-03"
+  },
+  {
+    "id": "9ad88945-c011-4ed9-8ba6-4c150790cc1b",
+    "customer_id": "f6f4c330-d05e-4aa4-aa98-a8006997253c",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Delta",
+    "amount": 12726.31,
+    "date": "2025-11-11"
+  },
+  {
+    "id": "d5125ec4-acda-4e3c-8af6-c4dd980c3888",
+    "customer_id": "b759789e-267b-4880-b551-33ba8bf773dd",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Alpha",
+    "amount": 2377.68,
+    "date": "2018-06-02"
+  },
+  {
+    "id": "dfdbcd49-dc29-4991-aa1e-49c993e01948",
+    "customer_id": "b759789e-267b-4880-b551-33ba8bf773dd",
+    "sales_rep_id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "product": "Beta",
+    "amount": 2366.6,
+    "date": "2024-01-11"
+  },
+  {
+    "id": "f65b916c-f7e3-43d0-a340-dad0fe6d558d",
+    "customer_id": "843ad742-1c9e-41cc-b1ae-51a5d5169938",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Delta",
+    "amount": 9100.19,
+    "date": "2024-08-02"
+  },
+  {
+    "id": "8fb9c609-f4dc-490e-b79f-56655d4b30d2",
+    "customer_id": "c47f0798-47d7-456e-81f8-00267518d460",
+    "sales_rep_id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "product": "Alpha",
+    "amount": 17714.0,
+    "date": "2023-06-28"
+  },
+  {
+    "id": "592a092f-0d73-4d55-bb3e-6bcb055e2521",
+    "customer_id": "b387aa80-3d24-449d-ac2b-2dc1a00155ce",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Gamma",
+    "amount": 18784.11,
+    "date": "2018-05-15"
+  },
+  {
+    "id": "7f8197b0-d7d1-4074-9d15-67ea3163ebee",
+    "customer_id": "79d802c4-4a7c-47f1-90d8-f050d0dd6c05",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Delta",
+    "amount": 4384.53,
+    "date": "2020-08-25"
+  },
+  {
+    "id": "4f4ebc16-2a90-4e16-b335-649fb00fe267",
+    "customer_id": "200d8243-0b22-436a-8f47-b104df03bf16",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Gamma",
+    "amount": 19619.51,
+    "date": "2024-02-09"
+  },
+  {
+    "id": "ce4186cb-326a-413e-ba2a-451267b3eaa7",
+    "customer_id": "04677591-446a-4a41-a80f-07b481760675",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Gamma",
+    "amount": 1257.97,
+    "date": "2020-02-17"
+  },
+  {
+    "id": "2586c51c-570b-4757-85cd-8a80d3bd87a7",
+    "customer_id": "9ad8ac31-e8ea-4e87-b86c-b22492403fec",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Beta",
+    "amount": 1878.88,
+    "date": "2025-03-13"
+  },
+  {
+    "id": "d3141d30-f8ad-4fd8-b71d-70af4870448e",
+    "customer_id": "d793b103-005f-488d-8d9d-a583f14f847f",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Alpha",
+    "amount": 19423.31,
+    "date": "2021-09-28"
+  },
+  {
+    "id": "346b7286-4e31-46b0-bacf-7e1969e504b0",
+    "customer_id": "f612d6e0-e446-4042-98b1-86a8e7f7e5cb",
+    "sales_rep_id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "product": "Beta",
+    "amount": 15750.21,
+    "date": "2018-10-09"
+  },
+  {
+    "id": "7459db4f-d5b0-442b-91a1-2ec0f3b2b7f5",
+    "customer_id": "fc4ca1fa-bf90-4514-b11d-32470052cb94",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Beta",
+    "amount": 4182.79,
+    "date": "2020-08-12"
+  },
+  {
+    "id": "7da3171a-40ef-40d2-b08e-3bb301a371e1",
+    "customer_id": "f773074f-0fe5-4ff0-90f1-40b80d803426",
+    "sales_rep_id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "product": "Alpha",
+    "amount": 15783.44,
+    "date": "2021-02-09"
+  },
+  {
+    "id": "28c64ce0-726c-4c7b-8b7d-a124645712f1",
+    "customer_id": "502c4d99-d740-464c-82ef-39b56be7b2bc",
+    "sales_rep_id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "product": "Beta",
+    "amount": 10827.3,
+    "date": "2019-03-27"
+  },
+  {
+    "id": "0bd96cee-3610-49e8-9540-8bef44457369",
+    "customer_id": "8e7ec55e-926e-4ba8-91e5-e7763e6bb887",
+    "sales_rep_id": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "product": "Gamma",
+    "amount": 2679.47,
+    "date": "2020-09-01"
+  },
+  {
+    "id": "fe2a3fa3-dae0-4db4-ba64-1af1a45a73ed",
+    "customer_id": "776a1243-db89-4094-9a19-5239ff01cb44",
+    "sales_rep_id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "product": "Gamma",
+    "amount": 364.83,
+    "date": "2018-08-03"
+  },
+  {
+    "id": "a89805fb-c9d8-4026-9248-58a39ba0303b",
+    "customer_id": "843ad742-1c9e-41cc-b1ae-51a5d5169938",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Alpha",
+    "amount": 10545.41,
+    "date": "2023-05-05"
+  },
+  {
+    "id": "4f17e838-5db5-40d6-809f-7ea94fbc9c03",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Alpha",
+    "amount": 10289.1,
+    "date": "2023-01-26"
+  },
+  {
+    "id": "4c464631-ce70-4729-88b6-8b881c96fae6",
+    "customer_id": "c3ed8020-8a33-4288-a097-0c38125d7953",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Alpha",
+    "amount": 18911.04,
+    "date": "2025-05-22"
+  },
+  {
+    "id": "80bf03ef-3cdb-472b-973d-0657e60c7e90",
+    "customer_id": "cfada1bd-56e5-4361-9ff4-e0252040f60d",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Alpha",
+    "amount": 9187.95,
+    "date": "2018-09-07"
+  },
+  {
+    "id": "6ad06be9-1e8c-47a1-95bb-ebe340450618",
+    "customer_id": "8fa608b2-9c2a-4a85-b8c9-c359841f50b0",
+    "sales_rep_id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "product": "Alpha",
+    "amount": 8554.16,
+    "date": "2023-07-02"
+  },
+  {
+    "id": "87d13e6a-23c2-4919-9216-53f2d1807f6a",
+    "customer_id": "0ad03d9a-405f-47cb-8631-db88ab9c673a",
+    "sales_rep_id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "product": "Alpha",
+    "amount": 1516.14,
+    "date": "2021-08-12"
+  },
+  {
+    "id": "d6e67edb-df4b-4c32-b70b-0096987b5c61",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "sales_rep_id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "product": "Gamma",
+    "amount": 1360.36,
+    "date": "2025-01-01"
+  },
+  {
+    "id": "38292571-fb43-405a-bb52-3cdc9afb37b4",
+    "customer_id": "d793b103-005f-488d-8d9d-a583f14f847f",
+    "sales_rep_id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "product": "Gamma",
+    "amount": 10989.71,
+    "date": "2022-04-10"
+  },
+  {
+    "id": "9d27f432-4061-4543-9d47-a0e60e9fc70b",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "sales_rep_id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "product": "Delta",
+    "amount": 5933.21,
+    "date": "2019-02-11"
+  },
+  {
+    "id": "151ad0b0-9084-46ab-a61a-2068938e640d",
+    "customer_id": "79d802c4-4a7c-47f1-90d8-f050d0dd6c05",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Beta",
+    "amount": 17063.22,
+    "date": "2022-10-28"
+  },
+  {
+    "id": "2d3b4d5a-9e66-48dc-9263-7f11d5095298",
+    "customer_id": "70262d7b-95e5-4584-a0af-6addc0aaf30f",
+    "sales_rep_id": "26195c70-5959-44ab-b958-39c462994b84",
+    "product": "Delta",
+    "amount": 8305.58,
+    "date": "2022-06-22"
+  },
+  {
+    "id": "66e8c1cb-7b55-45d8-a790-51556352535b",
+    "customer_id": "f3de837f-2615-42c1-9cdc-436d895e2832",
+    "sales_rep_id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "product": "Gamma",
+    "amount": 6285.34,
+    "date": "2025-06-17"
+  },
+  {
+    "id": "04be8376-543b-4272-8f90-a500b1be5544",
+    "customer_id": "596f3360-dbe8-48d4-a6ba-2402c395190c",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Delta",
+    "amount": 19074.17,
+    "date": "2018-10-02"
+  },
+  {
+    "id": "c67f7ce1-8730-44a1-8c29-2bc528c7e245",
+    "customer_id": "da7ad597-4e59-4f6d-9df2-80497964cc8c",
+    "sales_rep_id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "product": "Alpha",
+    "amount": 1909.94,
+    "date": "2022-03-07"
+  },
+  {
+    "id": "a3decb9e-5dae-4106-bc31-72f60256ec17",
+    "customer_id": "843ad742-1c9e-41cc-b1ae-51a5d5169938",
+    "sales_rep_id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "product": "Gamma",
+    "amount": 1246.62,
+    "date": "2025-07-07"
+  },
+  {
+    "id": "57774325-954b-470c-b740-5d60b9d4124c",
+    "customer_id": "9ad8ac31-e8ea-4e87-b86c-b22492403fec",
+    "sales_rep_id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "product": "Delta",
+    "amount": 7104.28,
+    "date": "2026-02-01"
+  },
+  {
+    "id": "dea0ef8a-4ecb-48d5-9ecc-bec42dda50b5",
+    "customer_id": "1affc2f8-7460-4ee7-a12c-3f345f45b43a",
+    "sales_rep_id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "product": "Gamma",
+    "amount": 12028.18,
+    "date": "2019-03-01"
+  },
+  {
+    "id": "6ad9414c-d79a-437d-b038-072635475915",
+    "customer_id": "ba7ef2b3-3d31-4f1b-9568-4e152e1f9668",
+    "sales_rep_id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "product": "Delta",
+    "amount": 4294.14,
+    "date": "2020-07-07"
+  },
+  {
+    "id": "b4c79aff-5aa7-43ea-a4ff-4b48e30b7aac",
+    "customer_id": "e58a33e5-6ebd-4efa-b610-cfc402121acb",
+    "sales_rep_id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "product": "Gamma",
+    "amount": 16915.2,
+    "date": "2019-04-16"
+  },
+  {
+    "id": "9df6b3f7-fd4a-4f8d-97ae-bc0e44d72c2c",
+    "customer_id": "fc4ca1fa-bf90-4514-b11d-32470052cb94",
+    "sales_rep_id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "product": "Delta",
+    "amount": 11503.3,
+    "date": "2024-04-16"
+  },
+  {
+    "id": "c24deb79-8c9d-4869-bfa6-31f29db038a8",
+    "customer_id": "28063d33-6eea-4069-a129-fc095e40ee75",
+    "sales_rep_id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "product": "Alpha",
+    "amount": 12290.79,
+    "date": "2024-10-30"
+  }
+]

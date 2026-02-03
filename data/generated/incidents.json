@@ -1,0 +1,122 @@
+[
+  {
+    "id": "06868f1b-d5a1-435d-84c4-5b233b9e2c10",
+    "type": "Dispute",
+    "customer_id": "7b59bf60-64a0-4c41-a28f-bb5f991e96b9",
+    "reported_by": "8281633f-fec2-4ea8-ad9c-d5b687c65fb7",
+    "severity": "medium",
+    "date": "2022-06-19"
+  },
+  {
+    "id": "dabbe074-8625-4f6f-82ae-32794e33d01c",
+    "type": "Dispute",
+    "customer_id": "f97f56cc-b19a-4008-8bf6-4aa2e92e26d9",
+    "reported_by": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "severity": "low",
+    "date": "2020-08-09"
+  },
+  {
+    "id": "a378abc7-37bd-4a25-8b97-046769c5faa1",
+    "type": "System Failure",
+    "customer_id": "8e7ec55e-926e-4ba8-91e5-e7763e6bb887",
+    "reported_by": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "severity": "low",
+    "date": "2020-08-04"
+  },
+  {
+    "id": "3ae6578b-5070-4baa-8fe9-2ffb058de28b",
+    "type": "Theft",
+    "customer_id": "da7ad597-4e59-4f6d-9df2-80497964cc8c",
+    "reported_by": "2d942afb-d872-4def-ad8e-22d045180797",
+    "severity": "low",
+    "date": "2023-03-21"
+  },
+  {
+    "id": "67ca1e29-ad19-4aa9-9e6e-49fc266f4d98",
+    "type": "Misconduct",
+    "customer_id": "c2553cb8-2d89-4407-bc37-b4c269be448f",
+    "reported_by": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "severity": "low",
+    "date": "2023-02-24"
+  },
+  {
+    "id": "bfffe63d-a2b1-466f-a59c-9d65d7a6a3e1",
+    "type": "Dispute",
+    "customer_id": "9a276552-d57c-4a66-a3d9-a573a290127f",
+    "reported_by": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "severity": "high",
+    "date": "2025-09-08"
+  },
+  {
+    "id": "adfa94e0-02cd-45a9-b3f9-9e3a231987cc",
+    "type": "Theft",
+    "customer_id": "1affc2f8-7460-4ee7-a12c-3f345f45b43a",
+    "reported_by": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "severity": "low",
+    "date": "2025-12-05"
+  },
+  {
+    "id": "9f1ec86b-eb51-47d2-9242-a901621175d4",
+    "type": "Theft",
+    "customer_id": "7319e30b-36d9-43ba-b01c-f3f3c8faa86b",
+    "reported_by": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "severity": "medium",
+    "date": "2023-12-20"
+  },
+  {
+    "id": "084727d6-9a38-41b5-a414-e9bb0b55ad54",
+    "type": "Misconduct",
+    "customer_id": "8bb6a259-328c-44eb-aa91-136a255e4471",
+    "reported_by": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "severity": "medium",
+    "date": "2023-08-24"
+  },
+  {
+    "id": "d7b48b9b-c883-4a0d-b896-87771d4bdb19",
+    "type": "Dispute",
+    "customer_id": "2626f9c7-c4a2-4617-bc9f-e827f0714221",
+    "reported_by": "2d942afb-d872-4def-ad8e-22d045180797",
+    "severity": "low",
+    "date": "2022-11-14"
+  },
+  {
+    "id": "e7b2da2c-8d2a-4f6a-8873-6060cbb669cc",
+    "type": "Misconduct",
+    "customer_id": "9ad8ac31-e8ea-4e87-b86c-b22492403fec",
+    "reported_by": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "severity": "high",
+    "date": "2025-08-26"
+  },
+  {
+    "id": "5f30c58f-b499-455e-b0d3-be65904633c7",
+    "type": "Misconduct",
+    "customer_id": "cfada1bd-56e5-4361-9ff4-e0252040f60d",
+    "reported_by": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "severity": "low",
+    "date": "2021-06-22"
+  },
+  {
+    "id": "e5c62079-3f48-4e1c-bd47-d1bbd80fc42c",
+    "type": "Misconduct",
+    "customer_id": "26981024-de56-4865-a19e-e9509d3cfa33",
+    "reported_by": "966c3022-d6fe-4a58-8604-55137a26c510",
+    "severity": "low",
+    "date": "2021-04-17"
+  },
+  {
+    "id": "3f4a6baf-f745-45a1-afba-045b87b2f559",
+    "type": "Dispute",
+    "customer_id": "2626f9c7-c4a2-4617-bc9f-e827f0714221",
+    "reported_by": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "severity": "medium",
+    "date": "2022-03-31"
+  },
+  {
+    "id": "dd9e339f-b4b6-45e3-86b2-d38dc22c1417",
+    "type": "Dispute",
+    "customer_id": "9ad8ac31-e8ea-4e87-b86c-b22492403fec",
+    "reported_by": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "severity": "medium",
+    "date": "2023-10-30"
+  }
+]

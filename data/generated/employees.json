@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ad2366d4-8d5b-4051-9af0-657a14e0a517",
+    "name": "Sam Garcia",
+    "email": "sam.garcia@business.io",
+    "department": "Marketing",
+    "hire_date": "2015-06-30"
+  },
+  {
+    "id": "966c3022-d6fe-4a58-8604-55137a26c510",
+    "name": "Taylor Smith",
+    "email": "taylor.smith@business.io",
+    "department": "Engineering",
+    "hire_date": "2025-03-06"
+  },
+  {
+    "id": "c0820186-8151-4879-af92-7ae24f13efb6",
+    "name": "Drew Johnson",
+    "email": "drew.johnson@business.io",
+    "department": "HR",
+    "hire_date": "2010-09-18"
+  },
+  {
+    "id": "6b3251f7-27a9-47a1-b75c-d999cafb771f",
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "department": "Sales",
+    "hire_date": "2021-05-02"
+  },
+  {
+    "id": "b15025e3-9050-4b45-a652-2224da2e6942",
+    "name": "Cameron Garcia",
+    "email": "cameron.garcia@business.io",
+    "department": "Sales",
+    "hire_date": "2026-01-22"
+  },
+  {
+    "id": "8281633f-fec2-4ea8-ad9c-d5b687c65fb7",
+    "name": "Drew Davis",
+    "email": "drew.davis@example.com",
+    "department": "HR",
+    "hire_date": "2023-03-21"
+  },
+  {
+    "id": "36504ca7-f6b4-4777-8d0b-8796757c9717",
+    "name": "Morgan Garcia",
+    "email": "morgan.garcia@example.com",
+    "department": "Support",
+    "hire_date": "2019-06-25"
+  },
+  {
+    "id": "26195c70-5959-44ab-b958-39c462994b84",
+    "name": "Casey Lee",
+    "email": "casey.lee@example.com",
+    "department": "Sales",
+    "hire_date": "2017-07-20"
+  },
+  {
+    "id": "0a550bca-9ac9-456d-88cd-6ca9f9dcb449",
+    "name": "Sam Johnson",
+    "email": "sam.johnson@enterprise.local",
+    "department": "Engineering",
+    "hire_date": "2018-01-19"
+  },
+  {
+    "id": "bac39842-812a-4d45-acd5-12cf33dc15d3",
+    "name": "Casey Anderson",
+    "email": "casey.anderson@enterprise.local",
+    "department": "Engineering",
+    "hire_date": "2020-04-21"
+  },
+  {
+    "id": "799e9493-0cce-4dba-b30d-376a03008ef2",
+    "name": "Drew Johnson",
+    "email": "drew.johnson@enterprise.local",
+    "department": "Engineering",
+    "hire_date": "2022-05-20"
+  },
+  {
+    "id": "e1a0f669-7042-42da-8cc0-f2e17a161474",
+    "name": "Morgan Anderson",
+    "email": "morgan.anderson@enterprise.local",
+    "department": "Finance",
+    "hire_date": "2014-04-25"
+  },
+  {
+    "id": "f7e94505-dbbe-428e-9aa0-67cf64390ad4",
+    "name": "Sam Garcia",
+    "email": "sam.garcia@business.io",
+    "department": "Sales",
+    "hire_date": "2016-06-28"
+  },
+  {
+    "id": "9cfc4d0c-d2ab-49a1-a4d2-9542aa660be9",
+    "name": "Sam Brown",
+    "email": "sam.brown@example.com",
+    "department": "HR",
+    "hire_date": "2016-03-27"
+  },
+  {
+    "id": "2cbf734e-d67d-4fdd-892f-6916fc1fdf9d",
+    "name": "Jamie Martinez",
+    "email": "jamie.martinez@example.com",
+    "department": "Marketing",
+    "hire_date": "2017-12-20"
+  },
+  {
+    "id": "0dc8de26-0e5e-4584-893a-7f8aa05f42b9",
+    "name": "Taylor Lee",
+    "email": "taylor.lee@business.io",
+    "department": "Support",
+    "hire_date": "2024-07-14"
+  },
+  {
+    "id": "2d942afb-d872-4def-ad8e-22d045180797",
+    "name": "Sam Anderson",
+    "email": "sam.anderson@business.io",
+    "department": "Sales",
+    "hire_date": "2021-12-24"
+  },
+  {
+    "id": "b6fc637f-d58a-4f3b-8df7-b39247629afd",
+    "name": "Taylor Smith",
+    "email": "taylor.smith@enterprise.local",
+    "department": "HR",
+    "hire_date": "2016-01-21"
+  },
+  {
+    "id": "35277ffb-fc2b-4608-83c8-fa5f4cdac25f",
+    "name": "Drew Brown",
+    "email": "drew.brown@business.io",
+    "department": "Marketing",
+    "hire_date": "2011-04-04"
+  },
+  {
+    "id": "11e59182-529d-4c13-ac4e-ddb7b22a3dea",
+    "name": "Taylor Garcia",
+    "email": "taylor.garcia@enterprise.local",
+    "department": "HR",
+    "hire_date": "2016-01-03"
+  }
+]

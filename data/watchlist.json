@@ -1,0 +1,20 @@
+[
+  {
+    "object_name": "firearm",
+    "aliases": ["gun", "pistol", "rifle", "weapon", "glock"],
+    "danger_level": "CRITICAL",
+    "code": "CODE-RED"
+  },
+  {
+    "object_name": "knife",
+    "aliases": ["blade", "dagger", "machete", "sharp object"],
+    "danger_level": "HIGH",
+    "code": "CODE-ORANGE"
+  },
+  {
+    "object_name": "smartphone",
+    "aliases": ["cellphone", "mobile", "iphone", "android"],
+    "danger_level": "LOW",
+    "code": "SAFE-OBJECT"
+  }
+]
